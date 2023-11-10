@@ -18,7 +18,6 @@ Stage-2: Recommendation Engine: Create a dummy dataset related to Types of Churn
 
 Note2: With improper classification engine, we can make this Next Best Action project successful. So, make sure classification engine going to give high quality performance. 
 
-Submit the Script, Dummy Dataset for Recommendation engine & PowerPoint
 
 Scrren Shot 
 
